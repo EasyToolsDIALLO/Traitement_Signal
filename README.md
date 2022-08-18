@@ -6,6 +6,14 @@ This plateform allow:
 - Adding or subsracting two songs  
 - Observing freqeuential and temporal representation of signal  
 
+## Configuration Steps  
+### Step 1: 
+    Decompress assets.zip file in your project folder
+### Step 2: 
+    Open Matlab  
+### Step 3:  
+    Open UIinterface.m, which is like the main of our project
+
 ## Accueil  
 ![1](https://user-images.githubusercontent.com/97252877/185511214-c260dca7-435e-48e2-bb46-2148baf089e7.PNG)  
 
